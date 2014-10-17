@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[fgr:home|Door43 (fgr)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-fgr|d43-fgr repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-fgr/archive/master.zip|d43-fgr.zip]]
+
+**Recent Changes**
+{{changes>ns = fgr}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/fgr|Ethnologue data]]
+
